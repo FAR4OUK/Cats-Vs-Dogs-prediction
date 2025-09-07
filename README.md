@@ -41,5 +41,3 @@ Each image is resized to **64×64** and converted to grayscale before extracting
 - **Validation Accuracy:** ~71%  
 - **Test Accuracy:** (varies depending on dataset split)  
 - Model predicts and exports results to `test_results.xlsx` / `test_results.csv`
-
-## 📂 Project Structure
